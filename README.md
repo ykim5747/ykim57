@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Yoomin Kim but I go by Ashley<br>I am a student studying data science & statistics<br>I am interested in AI prediction, data visualization, and building useful projects<br>I am currently working on a health app<br>i know R, python, sql, linux, tableau<br>project: F1 Prediction Model. this predicts the podium and top two teams for each grand prix
+My name is Yoomin Kim. I go by Ashley<br>I am a student studying data science & statistics<br>I am interested in AI prediction, data visualization, and building useful projects<br>I am currently working on a health app<br>
 
 
 ## 🌐 Socials:
